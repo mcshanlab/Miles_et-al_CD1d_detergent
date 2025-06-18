@@ -1,0 +1,47 @@
+Residue	Type of interaction	# of complexes (out of 13)	Interacts with α-GalCer?	Ligands
+L148	Hydrophobic	10/13	❌	Brij35, CHAPS, CTAB, DDM, LDAO, NP40, ODG, SDS, Tween20, Tyloxapol
+F77	Hydrophobic	10/13	❌	Brij35, CHAPS, DDM, Deoxycholate, NP40, ODG, SDS, TritonX100, Tween80, Tyloxapol
+L96	Hydrophobic	9/13	❌	Brij35, CTAB, LDAO, NP40, ODG, SDS, TritonX100, Tween80, Tyloxapol
+D80	Hydrophobic	8/13	❌	Brij35, CHAPS, CTAB, DDM, Deoxycholate, ODG, TritonX100, Tyloxapol
+D80	Hydrogen Bond	3/13	❌	Brij35, DDM, ODG
+D80	Salt Bridge	1/13	❌	CTAB
+S76	Hydrophobic	8/13	✓	CHAPS, DDM, Deoxycholate, LDAO, ODG, Tween20, Tween80, Tyloxapol
+S76	Hydrogen Bond	8/13	✓	CHAPS, DDM, Deoxycholate, LDAO, ODG, Tween20, Tween80, Tyloxapol
+L90	Hydrophobic	7/13	✓	Brij35, CTAB, DDM, NP40, SDS, Tween20, Tween80
+W140	Hydrophobic	7/13	❌	Brij35, DDM, SDS, TritonX100, Tween20, Tween80, Tyloxapol
+F84	Hydrophobic	7/13	✓	CHAPS, CTAB, DDM, TritonX100, Tween20, Tween80, Tyloxapol
+W131	Hydrophobic	7/13	❌	CHAPS, CTAB, DDM, NP40, SDS, Tween20, Tween80
+Y73	Hydrophobic	5/13	✓	CHAPS, Deoxycholate, NP40, Tween20, Tyloxapol
+Y73	Hydrogen Bond	3/13	✓	CHAPS, NP40, Tween20
+V81	Hydrophobic	4/13	❌	Brij35, TritonX100, Tween20, Tyloxapol
+L124	Hydrophobic	4/13	✓	Brij35, NP40, Tween80, Tyloxapol
+T154	Hydrophobic	4/13	✓	CHAPS, CTAB, NP40, ODG
+T154	Hydrogen Bond	2/13	✓	CHAPS, ODG
+R79	Hydrophobic	4/13	❌	DDM, ODG, Tween80, Tyloxapol
+R79	Hydrogen Bond	4/13	❌	DDM, ODG, Tween80, Tyloxapol
+W153	Hydrophobic	4/13	❌	CHAPS, CTAB, Deoxycholate, Tyloxapol
+V116	Hydrophobic	3/13	✓	CHAPS, TritonX100, Tween80
+A144	Hydrophobic	2/13	❌	TritonX100, Tyloxapol
+L161	Hydrophobic	2/13	✓	Tween20, Tween80
+F118	Hydrophobic	2/13	✓	NP40, Tween80
+D151	Hydrophobic	2/13	❌	CHAPS, CTAB
+D151	Hydrogen Bond	1/13	❌	CHAPS
+D151	Salt Bridge	2/13	❌	CHAPS, CTAB
+T157	Hydrophobic	1/13	✓	Brij35
+T157	Hydrogen Bond	1/13	✓	Brij35
+W63	Hydrophobic	1/13	❌	Tyloxapol
+F114	Hydrophobic	1/13	❌	Tyloxapol
+V98	Hydrophobic	1/13	❌	Tyloxapol
+A100	Hydrophobic	1/13	❌	Tyloxapol
+L66	Hydrophobic	1/13	✓	Tyloxapol
+T57	Hydrophobic	1/13	❌	Tyloxapol
+T57	Hydrogen Bond	1/13	❌	Tyloxapol
+V118	Hydrophobic	1/13	❌	Tyloxapol
+F70	Hydrophobic	1/13	✓	Tyloxapol
+V47	Hydrophobic	1/13	✓	Tyloxapol
+F169	Hydrophobic	1/13	✓	Tyloxapol
+I69	Hydrophobic	1/13	✓	Tween80
+L94	Hydrophobic	1/13	❌	Tween80
+L29	Hydrophobic	1/13	❌	Tween20
+L29	Hydrogen Bond	1/13	❌	Tween20
+V72	Hydrophobic	1/13	❌	Deoxycholate
