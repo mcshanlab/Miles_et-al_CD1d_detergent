@@ -1,0 +1,1 @@
+vina --config config.txt --cpu 8 --ligand Deoxycholate.pdbqt --receptor hCD1d_1ZT4_h_rigid.pdbqt --flex hCD1d_1ZT4_h_flexible.pdbqt --out Deoxycholate_docked_flex.pdbqt --log Deoxycholate_log_flex.txt
